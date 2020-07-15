@@ -1,4 +1,4 @@
-![Kaiyu doodle](https://raw.githubusercontent.com/tehkaiyu/tehkaiyu/master/doodle.svg)
+<img src="https://raw.githubusercontent.com/tehkaiyu/tehkaiyu/master/doodle.svg">
 
 <p align="center">
 I produce authentic San Francisco fog-infused bespoke organic free range JavaScript <br><br>
