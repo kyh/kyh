@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tehkaiyu/tehkaiyu/master/doodle.svg">
+<img src="https://raw.githubusercontent.com/kyh/kyh/master/doodle.svg">
 
 <p align="center">
 I produce bespoke San Francisco fog-infused organic free range JavaScript <br><br>
